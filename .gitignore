@@ -1,0 +1,11 @@
+.venv
+.idea
+.env
+
+pycache/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyi
+
+media/
