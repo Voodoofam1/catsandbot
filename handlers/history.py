@@ -1,4 +1,4 @@
-from .actions import history
+from handlers.actions import history
 
 def show_history(bot, message):
     '''показ истории действий пользователй в боте'''
